@@ -1,11 +1,11 @@
 <p align="center">
   <a href="#">
-    <img width="300" alt="WooCommerce Cielo Boleto" src="https://santanamic.github.io/woo-cielo-boleto/_media/logo.svg">
+    <img width="300" alt="WooCommerce Cielo API" src="https://santanamic.github.io/woo-cielo-boleto/_media/logo.svg">
   </a>
 </p> 
 
 <p align="center">
-  Emita boletos usando a API Cielo eCommerce v3.
+  Ingreção checkout no WooCommerce usando a API Cielo eCommerce v3.
 </p>
 
 <p align="center">
@@ -70,3 +70,6 @@ Na tela de configurções do plugin insira as demais informações:
 - **Sandbox Merchant ID** - Merchant ID do sandbox.
 - **Sandbox Merchant Key** - Merchant Key do sandbox.
 - **Habilitar Log** - Quando estiver marcado ativa o registro de log para o plugin.
+
+
+**Esse Plugin foi baseado no woo-cielo-boleto, do William Santana agradeço a todos pelas contribuições!**
